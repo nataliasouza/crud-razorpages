@@ -7,6 +7,8 @@
 temp/
 bin
 obj
+app.db-shm
+app.db-wal 
 # compiled output
 /dist
 /tmp
